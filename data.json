@@ -1,0 +1,122 @@
+{
+    "Arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "nama": "Arabika Gayo Takengon",
+            "size": "500 gram",
+            "harga": "77.500",
+            "link": "https://id.my-best.com/137502",
+            "foto": "https://img.id.my-best.com/product_images/ffeafe5dddb5575660fa2d2933ad5316.png?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=0154a07f0b6f74daec2982c061702218"
+        }
+    ],
+    "Robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "nama": "Robusta Aceh Gayo",
+            "size": "500 Gram",
+            "harga": "80.000",
+            "link": "https://ottencoffee.co.id/majalah/kopi-robusta-yang-enak",
+            "foto": "https://s-ecom.ottenstatic.com/original/6214aa4997163407320619.jpg"
+        },
+        {
+            "nama": "Kopi Robusta Solok",
+            "size": "500 Gram",
+            "harga": "90.000",
+            "link": "https://ottencoffee.co.id/majalah/kopi-robusta-yang-enak",
+            "foto": "https://s-ecom.ottenstatic.com/original/613eedadccd81135878126.jpg"
+        }
+    ],
+    "Non Kopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "Es Teh Manis",
+            "size": "100 ml",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=es+teh+manis",
+            "foto": "https://static.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/akuratco/images/akurat_20181029123557_B6tXpj.jpg"
+        },
+        {
+            "nama": "Milk tea",
+            "size": "330 ml",
+            "harga": "8.000",
+            "link": "https://www.google.com/search?q=milk+tea",
+            "foto": "https://assets.klikindomaret.com/share/20040383_1.jpg"
+        },
+        {
+            "nama": "Mocktail",
+            "size": "200 ml",
+            "harga": "40.000",
+            "link": "https://www.google.com/search?q=Mocktail",
+            "foto": "https://images.immediate.co.uk/production/volatile/sites/30/2020/04/mocktail-3b9ab7d.jpg"
+        }
+    ],
+    "Gorengan": [
+        {
+            "nama": "Gorengan",
+            "size": "10 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=gorengan",
+            "foto": "https://asset.kompas.com/crops/VSdX_U1CFkOPeYtm4CXERJvD9to=/100x67:900x600/750x500/data/photo/2023/04/01/6427b71555180.jpg"
+        },
+        {
+            "nama": "Pisang goreng",
+            "size": "4 pcs",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=Pisang+goreng",
+            "foto": "https://www.astronauts.id/blog/wp-content/uploads/2023/11/Berbagai-Resep-Pisang-Goreng-Crispy-dan-Legit-Sejak-Gigitan-Pertama.jpg"
+        },
+        {
+            "nama": "Jamur crispy",
+            "size": "50 pcs",
+            "harga": "20.000",
+            "link": "https://www.google.com/search?q=Jamur+crispy",
+            "foto": "https://www.blibli.com/friends-backend/wp-content/uploads/2023/04/B300518-Cover-Cara-Membuat-Jamur-Crispy-dengan-Tepung-Sajiku.jpg"
+        },
+        {
+            "nama": "Risol mayo",
+            "size": "4 pcs",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=Risol+mayo",
+            "foto": "https://asset.kompas.com/crops/RwdMnMdAVlFdKOmMauQE9CJEpR4=/0x283:800x817/750x500/data/photo/2022/07/29/62e35a47c7535.jpg"
+        }
+    ]
+}
